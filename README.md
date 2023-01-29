@@ -1,5 +1,3 @@
-This repository provides the code to reproduce the experiments of the submission for Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
-
 ## Quick Start
 ### 1. Install [Singularity](https://sylabs.io/guides/3.5/user-guide/introduction.html) (optional)
 If you don't want to install Singularity, make sure that you have all dependecies from Singularity.def (python3, numpy, pytorch, etc.)
